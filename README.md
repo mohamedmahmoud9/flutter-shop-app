@@ -1,14 +1,12 @@
 # shop_app
-
-A new Flutter project.
 Screenshots:
-![](screenshots/photo_2020-03-21_01-31-37.jpg)
-![](screenshots/photo_2020-03-21_01-31-38 (2).jpg)
-![](screenshots/photo_2020-03-21_01-31-38.jpg)
-![](screenshots/photo_2020-03-21_01-31-39.jpg)
-![](screenshots/photo_2020-03-21_01-31-40 (2).jpg)
-![](screenshots/photo_2020-03-21_01-31-40 (3).jpg)
-![](screenshots/photo_2020-03-21_01-31-40.jpg)
+![](screenshots/1.jpg)
+![](screenshots/2.jpg)
+![](screenshots/3.jpg)
+![](screenshots/4.jpg)
+![](screenshots/5.jpg)
+![](screenshots/6.jpg)
+![](screenshots/7.jpg)
 
 ## Getting Started
 
