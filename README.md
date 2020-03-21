@@ -1,12 +1,12 @@
 # shop_app
-Screenshots:
-![](screenshots/photo_2020-03-21_01-31-37.jpg)
-![](screenshots/photo_2020-03-21_01-31-38%20(2).jpg)
-![](screenshots/photo_2020-03-21_01-31-38.jpg.jpg)
-![](screenshots/photo_2020-03-21_01-31-39.jpg)
-![](screenshots/photo_2020-03-21_01-31-40%20(2).jpg)
-![](screenshots/photo_2020-03-21_01-31-40%20(3).jpg)
 ![](screenshots/photo_2020-03-21_01-31-40.jpg)
+![](screenshots/photo_2020-03-21_01-31-39.jpg)
+![](screenshots/photo_2020-03-21_01-31-38%20(2).jpg)
+![](screenshots/photo_2020-03-21_01-31-37.jpg)
+![](screenshots/photo_2020-03-21_01-31-40%20(2).jpg)
+![](screenshots/photo_2020-03-21_01-31-38.jpg.jpg)
+![](screenshots/photo_2020-03-21_01-31-40%20(3).jpg)
+
 
 ## Getting Started
 
