@@ -1,6 +1,8 @@
 # shop_app
 
 A new Flutter project.
+Screenshots:
+![](screenshots/photo_2020-03-21_01-31-37.jpg)
 
 ## Getting Started
 
