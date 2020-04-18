@@ -7,15 +7,14 @@
 
 <h4 align="center">A Shop mobile app made using <a href="https://flutter.dev" target="_blank">Flutter</a>.</h4>
 
-<p float="left">
+<p align="center">
   <img src="screenshots/photo_2020-03-21_01-31-40.jpg" width="200" />
-  <img src="screenshots/photo_2020-03-21_01-31-38.jpg.jpg" width="200" />
   <img src="screenshots/photo_2020-03-21_01-31-38%20(2).jpg" width="200" />
   <img src="screenshots/photo_2020-03-21_01-31-37.jpg" width="200" />
   
   
 </p>
-<p float="left">
+<p align="center">
 <img src="screenshots/photo_2020-03-21_01-31-40%20(2).jpg" width="200" /> 
  
   <img src="screenshots/photo_2020-03-21_01-31-39.jpg" width="200" /> 
