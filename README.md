@@ -9,7 +9,7 @@
 
 <p float="left">
   <img src="screenshots/photo_2020-03-21_01-31-40.jpg" width="200" />
- <img src="screenshots/photo_2020-03-21_01-31-38.jpg.jpg" width="200" />
+  <img src="screenshots/photo_2020-03-21_01-31-38.jpg.jpg" width="200" />
   <img src="screenshots/photo_2020-03-21_01-31-38%20(2).jpg" width="200" />
   <img src="screenshots/photo_2020-03-21_01-31-37.jpg" width="200" />
   
@@ -29,5 +29,5 @@
 * Make oredes
 * Show history of orders
 * Filter Favorites
-* Add,Remve and Edit by Product owner only.
+* Add, Remove and Edit by Product owner only.
 
