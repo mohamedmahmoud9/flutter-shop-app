@@ -26,7 +26,7 @@
 * Login and Sing Up
 * Easily add and remove products.
 * Edit Products
-* Make oredes
+* Make oreers
 * Show history of orders
 * Filter Favorites
 * Add, Remove and Edit by Product owner only.
